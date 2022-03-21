@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    align-items: center;
+    font-weight:bolder ;
+}
+
+.container-fluid{
+    text-align: center;
+    align-items: center;
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+.consoles{
+    display:flex ;
+    flex-direction: row;
+    justify-content: center;
+    width: 30%;
+    margin-top: 200px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 300px;
+}
+
+.background{
+    background-color: rgb(199, 199, 199);
+}
